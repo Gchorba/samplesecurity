@@ -137,7 +137,7 @@
       list-items:
         - type: link
           content: Docs
-          link: https://azure.github.io/ref-docs/java
+          link: https://gchorba.github.io/samplesecurity/ref-docs/java
     - name: Storage
       repo: https://github.com/Azure/azure-storage-java
       blurbs:
@@ -145,7 +145,7 @@
       list-items:
         - type: link
           content: Docs
-          link: http://azure.github.io/azure-storage-java/
+          link: http://gchorba.github.io/samplesecurity/azure-storage-java/
     - name: Storage Android
       repo: https://github.com/Azure/azure-storage-android
       blurbs:
@@ -153,7 +153,7 @@
       list-items:
         - type: link
           content: Docs
-          link: http://azure.github.io/azure-storage-android/
+          link: http://gchorba.github.io/samplesecurity/azure-storage-android/
     - name: Internet of Things (IoT) Hub
       repo: https://github.com/Azure/azure-iot-sdks
       blurbs:
@@ -170,7 +170,7 @@
       list-items:
         - type: link
           content: Docs
-          link: http://azure.github.io/azure-documentdb-java/
+          link: http://gchorba.github.io/samplesecurity/azure-documentdb-java/
     - name: DocumentDB Hadoop Connector
       repo: https://github.com/Azure/azure-documentdb-hadoop
       blurbs:
@@ -215,7 +215,7 @@
       list-items:
         - type: link
           content: Docs
-          link: http://azure.github.io/azure-sdk-for-node
+          link: http://gchorba.github.io/samplesecurity/azure-sdk-for-node
     - name: Storage
       repo: https://github.com/Azure/azure-storage-node
       blurbs:
@@ -223,7 +223,7 @@
       list-items:
         - type: link
           content: Docs
-          link: http://azure.github.io/azure-storage-node/
+          link: http://gchorba.github.io/samplesecurity/azure-storage-node/
     - name: DocumentDB Node
       repo: https://github.com/Azure/azure-documentdb-node
       blurbs:
@@ -231,7 +231,7 @@
       list-items:
         - type: link
           content: Docs
-          link: http://azure.github.io/azure-documentdb-node/
+          link: http://gchorba.github.io/samplesecurity/azure-documentdb-node/
     - name: DocumentDB JavaScript
       repo: https://github.com/Azure/azure-documentdb-js
       blurbs:
@@ -247,7 +247,7 @@
       list-items:
         - type: link
           content: Docs
-          link: http://azure.github.io/azure-documentdb-js-server/
+          link: http://gchorba.github.io/samplesecurity/azure-documentdb-js-server/
         - type: link
           content: Getting started
           link: https://azure.microsoft.com/en-us/documentation/articles/documentdb-programming/
@@ -258,7 +258,7 @@
       list-items:
         - type: link
           content: Docs
-          link: http://azure.github.io/azure-documentdb-node-q/
+          link: http://gchorba.github.io/samplesecurity/azure-documentdb-node-q/
     - name: Mobile Apps for JavaScript
       repo: https://github.com/Azure/azure-mobile-apps-js-client
       blurbs:
@@ -322,7 +322,7 @@
       list-items:
         - type: link
           content: Docs
-          link: http://azure.github.io/azure-storage-python/
+          link: http://gchorba.github.io/samplesecurity/azure-storage-python/
     - name: DocumentDB
       repo: https://github.com/Azure/azure-documentdb-python
       blurbs:

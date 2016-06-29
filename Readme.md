@@ -1,6 +1,6 @@
 # Hello cloud developers,
 
-This is the github.io source code page for [azure.github.io](http://azure.github.io). Please feel free to fork and
+This is the github.io source code page for [gchorba.github.io/samplesecurity](http://gchorba.github.io/samplesecurity). Please feel free to fork and
 submit a pull request if you want to correct or add some content.
 
 Cheers!
@@ -29,4 +29,4 @@ Cheers!
 
 ## License and Copyright
 
-*[azure.github.io](http://azure.github.io)* is free software released under the [MIT License](http://www.opensource.org/licenses/MIT).
+*[gchorba.github.io/samplesecurity](http://gchorba.github.io/samplesecurity)* is free software released under the [MIT License](http://www.opensource.org/licenses/MIT).

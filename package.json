@@ -1,18 +1,18 @@
 {
-  "name": "azure.github.io",
+  "name": "gchorba.github.io/samplesecurity",
   "version": "1.0.0",
-  "description": "build tools for azure.github.io",
+  "description": "build tools for gchorba.github.io/samplesecurity",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azure/azure.github.io.git"
+    "url": "git+https://github.com/azure/gchorba.github.io/samplesecurity.git"
   },
   "author": "Microsoft Corporation",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/azure/azure.github.io/issues"
+    "url": "https://github.com/azure/gchorba.github.io/samplesecurity/issues"
   },
-  "homepage": "https://github.com/azure/azure.github.io#readme",
+  "homepage": "https://github.com/azure/gchorba.github.io/samplesecurity#readme",
   "devDependencies": {
     "bootstrap": "^4.0.0-alpha.2",
     "browser-sync": "^2.11.0",

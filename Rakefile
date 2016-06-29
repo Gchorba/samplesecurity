@@ -4,7 +4,7 @@ require 'tmpdir'
 require 'bundler/setup'
 require 'jekyll'
 
-GITHUB_REPONAME = 'Azure/azure.github.io.git'
+GITHUB_REPONAME = 'Azure/gchorba.github.io/samplesecurity.git'
 
 def silent_interrupt
   begin
@@ -21,7 +21,7 @@ def run(cmd, options = {})
   result
 end
 
-desc 'Generate azure.github.io files'
+desc 'Generate gchorba.github.io/samplesecurity files'
 task :build do
   silent_interrupt { system 'npm install && gulp build' }
 end
